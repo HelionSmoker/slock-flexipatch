@@ -142,4 +142,5 @@
 /* This patch adds the ability to get colors via Xresources.
  * https://tools.suckless.org/slock/patches/xresources/
  */
-#define XRESOURCES_PATCH 0
+#define XRESOURCES_PATCH 1
+
