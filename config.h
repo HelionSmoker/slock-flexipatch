@@ -132,7 +132,7 @@ static const int pixelSize = 10;
 
 #if CONTROLCLEAR_PATCH
 /* allow control key to trigger fail on clear */
-static const int controlkeyclear = 0;
+static const int controlkeyclear = 1;
 #endif // CONTROLCLEAR_PATCH
 
 #if DPMS_PATCH

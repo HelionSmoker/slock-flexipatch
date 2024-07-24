@@ -64,7 +64,7 @@
  * and don't want to spoil the detection of failed unlocking attempts.
  * https://tools.suckless.org/slock/patches/control-clear/
  */
-#define CONTROLCLEAR_PATCH 0
+#define CONTROLCLEAR_PATCH 1
 
 /* This patch interacts with the Display Power Signaling and automatically shuts down
  * the monitor after a configurable amount of seconds.
