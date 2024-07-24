@@ -38,7 +38,7 @@ static const char * background_image = "";
 
 #if DWM_LOGO_PATCH
 /* insert grid pattern with scale 1:1, the size can be changed with logosize */
-static const int logosize = 75;
+static const int logosize = 125;
 static const int logow = 12;   /* grid width and height for right center alignment*/
 static const int logoh = 6;
 
